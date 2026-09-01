@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+*.o
+*.obj
+*.a
+*.elf
+*.bin
+*.hex
+*.map
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
