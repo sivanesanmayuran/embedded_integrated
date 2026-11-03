@@ -21,3 +21,6 @@ venv/
 *.swp
 .DS_Store
 Thumbs.db
+*.keras
+*.jpg
+yolov5m.pt
